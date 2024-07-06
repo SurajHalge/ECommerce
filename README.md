@@ -1,2 +1,2 @@
 # Exam_Portal
-Online examination helps students of schools/ College/ Institutions is to offer a quick and easy way to appear for the exam. It also provides the results immediately after the exam. The students have to enter a valid user id and password to attend the exam. This examination contains multiple choice questions and appropriate number of options.
+An ecommerce app allows users to shop online, browse product catalogs, create wish lists, add items to a cart, and complete purchases. It also provides payment processing, shipping, and order management capabilities.
